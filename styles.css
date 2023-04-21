@@ -1,0 +1,26 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+img{
+    width:200px;
+    height:200px
+}
+#firstrow{
+    display:flex;
+    justify-content:center;
+    gap: 40px;
+}
+#secondrow{
+    display:flex;
+    justify-content:center;
+    gap: 40px
+}
+#thirdrow{
+     display:flex;
+    justify-content:center;
+}
+
+@media (max-width: 495px){
+    
+}
